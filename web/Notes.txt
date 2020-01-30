@@ -1,0 +1,9 @@
+Conceitos React:
+
+Componente   -> É uma função que retorna um conteúdo de interface, html, css. 
+                "É um bloco isolado de html, css e js que não interfere no restante da aplicação"
+                Quando?
+                - quando se repete um trecho de códico muitas vezes
+                - quando se consegue isolar um trecho da aplicação dentro de algo q não atinja o resto dos componentes
+Propriedade  -> Informações que um componente PAI passa para um componente FILHO
+Estado       -> Informações mantidas pelo componente (Lembrar: Imutabilidade)
